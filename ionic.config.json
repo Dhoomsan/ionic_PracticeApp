@@ -1,0 +1,7 @@
+{
+  "name": "PracticeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
